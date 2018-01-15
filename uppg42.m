@@ -1,6 +1,9 @@
 clear all
 close all
 
+%Här gör jag lite ändringar
+test= 0;
+
 fs= 1; %Hz
 Ts=1/fs; % samplingstid
 N= 100; %sample
