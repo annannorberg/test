@@ -1,4 +1,8 @@
 % Test av git
 
 f= 8;
-%Varf�r har den h�r ett plustecken?
+%Varför har den här ett plustecken?
+%Det är ju för att det inte var committat dårå, sånt ska man lära sig
+
+
+r=2;
