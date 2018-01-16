@@ -3,6 +3,8 @@ close all
 
 %Här gör jag lite ändringar
 test= 0;
+testet= test+1;
+%Det är visst ändringar här
 
 fs= 1; %Hz
 Ts=1/fs; % samplingstid
