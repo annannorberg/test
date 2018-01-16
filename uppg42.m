@@ -1,10 +1,13 @@
 clear all
 close all
 
-%Här gör jag lite ändringar
+%HÃ¤r gÃ¶r jag lite Ã¤ndringar
 test= 0;
 testet= test+1;
-%Det är visst ändringar här
+%Det Ã¤r visst Ã¤ndringar hÃ¤r
+
+
+%HAHAHAHAHAH
 
 fs= 1; %Hz
 Ts=1/fs; % samplingstid
