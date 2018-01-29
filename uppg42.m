@@ -5,6 +5,7 @@ close all
 test= 0;
 testet= test+1;
 %Nu gör jag en ändring HÄR
+%Eller DÄR
 
 
 %HAHAHAHAHAH
