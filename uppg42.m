@@ -1,5 +1,6 @@
-clear all
-close all
+%Klockan är 18:22
+
+
 
 %Här gör jag lite ändringar
 test= 0;
